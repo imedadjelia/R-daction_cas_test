@@ -21,4 +21,11 @@
 
 # Aperçu 
 
-!![Capture d'écran 2024-09-18 231648](https://github.com/user-attachments/assets/fd006e22-1a18-4188-8322-af7eff4d04d3)
+* Cas de test d'API "Gestion et Location de véhicules"
+
+* Rapport de test
+ 
+![image](https://github.com/user-attachments/assets/3636a19a-0227-483e-bd29-90da4b08bec1)
+
+* Cas de test "It-Akademy"
+![Capture d'écran 2024-09-18 231648](https://github.com/user-attachments/assets/fd006e22-1a18-4188-8322-af7eff4d04d3)
