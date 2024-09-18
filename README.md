@@ -20,3 +20,5 @@
 *  [Scénarios (Utilisateurs, Catégories, Véhicules, Agences, Disponibiltés, Locations)](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?gid=0#gid=0)
 
 # Aperçu 
+
+!![Capture d'écran 2024-09-18 231648](https://github.com/user-attachments/assets/fd006e22-1a18-4188-8322-af7eff4d04d3)
