@@ -1,7 +1,7 @@
 # Redaction_cas_test
-Tester le site web de l’it-akademy «https://inscription.it-akademy.fr/»
 
-## Scénarios de tests :
+## 1.Tester le site web de l’it-akademy «https://inscription.it-akademy.fr/»
+
 ### Scénarios de tests fonctionnels:
 * [Création de compte](https://docs.google.com/spreadsheets/d/18Cu9XFxY685egjIaGXeGQ0I546w4u3Cocdu5QOEvwIM/edit?gid=0#gid=0) 
 * [Connexion au compte](https://docs.google.com/spreadsheets/d/1Vxt9IVvHxp4EKc5q7Ob6PMyzpae0pOoit9VfKhO7uow/edit?gid=0#gid=0)
@@ -14,3 +14,9 @@ Tester le site web de l’it-akademy «https://inscription.it-akademy.fr/»
 * [Déconnexion de compte NF](https://docs.google.com/spreadsheets/d/1HLYtzJlihemIyXFx2K_F1rGYWSHCT5vaeQbMzLy4Q_0/edit?gid=251362055#gid=251362055)
 ### Synthèse de tests  :
 * [Tableau de tests ](https://docs.google.com/spreadsheets/d/1JomfdsQ2ngJ3AQptDUMOjKgz6d4bzZO89oOr_0Feay0/edit?gid=0#gid=0)
+
+## 2.Test dAPI pour la Gestion de Location de Vehicules
+
+*  [Scénarios (Utilisateurs, Catégories, Véhicules, Agences, Disponibiltés, Locations)](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?gid=0#gid=0)
+
+# Aperçu 
